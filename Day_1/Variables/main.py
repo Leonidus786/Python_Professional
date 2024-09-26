@@ -42,6 +42,36 @@ w = "hello"
 
 s = "amit"
 
+
+
 g = w +" "+ s
 
 print(g)
+
+
+
+
+# x = 20
+
+# print(x)
+
+
+
+# print(x+6)
+
+
+# print(x)
+
+# 10u = 5
+
+# _10u = 5
+
+# print(_10u)
+
+
+# _A-Z or a-z or 1-infinite
+
+# !~@#$%^&*()-+{}[]| -- Not Allowed
+
+
+# My_Name = "Abhishek"
