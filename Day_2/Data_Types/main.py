@@ -33,20 +33,20 @@
 
 
 # Integer = 23
-
+#
 # Integer_1 = -25
-
-
+#
+#
 # Float_1 = 34.8
-
-
+#
+#
 # Complex_1 = 1 + 2j
-
-
+#
+#
 # print(type(Integer))
-
+#
 # print(type(Float_1))
-
+#
 # print(type(Complex_1))
 
 
@@ -60,6 +60,21 @@
 
 # Subscripting
 # print("Hello"[0])
+
+# print("Sandeep"[4])
+
+# x = "Sandeep"
+
+# print(len(x))
+
+# +ve indexing --- left to right
+# you can access any item inside the data.
+
+# print(x[0])
+# print(x[6])
+
+# -ve indexing -- counting from right to left
+# print(x[-7])
 
 # a = "Abhishek"
 
@@ -85,7 +100,7 @@
 # x = 35e3
 # y = 12E4
 # z = -87.7e100
-
+#
 # print(type(x))
 # print(type(y))
 # print(type(z))

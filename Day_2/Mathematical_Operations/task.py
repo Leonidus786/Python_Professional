@@ -2,14 +2,16 @@
 
 
 # print(2 + 3)
-
+#
 # print(5-3)
-
+#
 # print(2 * 3)
+#
+# print(7 / 3) # Normal division in python
 
-# print(5 / 3) # Normal division in python
+# print(7 // 3) # Floor division in python -- Quotient without decimals
 
-# print(5 // 3) # Floor division in python
+# print(7 % 3) # % -- modulo -- Remainder
 
 
 # print(2 ** 2) # Exponentiation
@@ -17,7 +19,17 @@
 # print(2**3)
 
 
-# a = 5/3
+a = 7/3
+
+b = 5 / 3
+
+# print(b)
+# print(round(b,2))
+
+
+# print(a)
+
+# print(round(a,3))
 
 # print(round(a,2))
 
@@ -35,7 +47,7 @@
 
 
 # age = 12
-
+#
 # print("My age is: "+ str(age))
 
 age = 30
